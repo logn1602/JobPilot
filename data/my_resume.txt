@@ -1,0 +1,40 @@
+Shubh Dave
+617-309-0497 | dave.shu@northeastern.edu | LinkedIn | GitHub: github.com/logn1602
+
+EDUCATION
+Northeastern University, Boston, MA — Master of Professional Studies in Data Analytics; specialization in Applied Machine Intelligence (GPA: 3.90) — Expected 12/2026
+K.J. Somaiya Institute of Technology, Mumbai, India — Bachelor of Technology in Artificial Intelligence and Data Science; Honor's Degree in Blockchain (CGPA: 9.06) — 05/2024
+
+TECHNICAL SKILLS
+Languages & Databases: Python, Java, R, SQL, C, C++, HTML, CSS, PostgreSQL, MySQL, MongoDB
+ML/AI & NLP: Scikit-learn, TensorFlow, Keras, XGBoost, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, spaCy, NLTK
+Cloud & Big Data: GCP, AWS, Docker, Red Hat OpenShift, Kubernetes, Apache Spark, Hadoop
+Tools & Visualization: Tableau, Power BI, Plotly, Streamlit, Flask, Git, GitHub, Jenkins, VS Code, Jupyter
+
+WORK EXPERIENCE
+AI Analyst Intern — Periscope Technologies, Inc. (Remote) | 09/2025 – 12/2025
+- Pioneered data pipelines via PostgreSQL, reducing data retrieval time by indexing and query optimization; enhanced processing efficiency for GenAI model training workflows.
+- Architected Kafka-based streaming pipelines with Redis caching layer, reducing API latency by 20% and enabling real-time data ingestion for downstream analytics.
+- Optimized cloud-native data services using REST/GraphQL APIs and PostgreSQL; improved data modularity and cut development cycles by 15%.
+- Implemented automated testing protocols within Jenkins CI/CD pipelines, achieving 85% code coverage and ensuring data pipeline reliability across containerized Kubernetes deployments.
+
+PROJECTS
+SCD Pain Crisis Prediction Pipeline | Power of Patients (06/2025)
+- Built end-to-end ETL pipeline integrating patient surveys, clinical records, and weather APIs using Python and Pandas; automated geospatial enrichment for 200+ locations enabling predictive healthcare analytics.
+- Trained XGBoost classification models (AUC: 0.89) with SMOTE resampling; deployed interactive Streamlit dashboards with Plotly/Folium for real-time patient risk visualization.
+
+FinBot — AI Financial Advisor Voice Assistant (Deployed: github.com/logn1602/Finbot)
+- Built a multilingual AI-powered financial advisor with voice I/O, expense tracking, and personalized budgeting advice. Deployed on Streamlit Cloud.
+
+NewsWise AI — News Classification Microservice (Deployed: huggingface.co/spaces/logn1602/newswise-ai)
+- Deployed a TF-IDF + Logistic Regression news classifier (92.18% accuracy) as a live microservice on Hugging Face with a polished Gradio UI.
+
+Generative AI-Powered SQL Chatbot (05/2025)
+- Developed a GenAI-powered NL-to-SQL chatbot translating user queries into executable PostgreSQL commands; deployed on Red Hat OpenShift.
+
+Moodify — AI Mental Health App (11/2023)
+- Founded Moodify, an AI mental health app with facial emotion detection (OpenCV), integrated with Spotify API for mood-based recommendations. Published at IEEE ICAST conference.
+
+RESEARCH PUBLICATIONS
+- IEEE: MOODIFY: Tailored, Personal and Multifaceted AI Assistant for Young Adults
+- IJRAR: The Making of Moodify

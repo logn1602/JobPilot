@@ -1,0 +1,23 @@
+# API Keys & Secrets
+.env
+credentials.json
+
+# Data files (contain personal job history)
+data/seen_jobs.json
+data/latest_scrape.json
+data/latest_results.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

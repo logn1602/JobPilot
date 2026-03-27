@@ -1,0 +1,14 @@
+# ── Core ──
+python-dotenv>=1.0.0
+apify-client>=1.8.0
+
+# ── AI Providers ──
+groq>=0.9.0
+openai>=1.40.0
+
+# ── Google Sheets ──
+gspread>=6.0.0
+google-auth>=2.29.0
+
+# ── Utilities ──
+requests>=2.31.0
